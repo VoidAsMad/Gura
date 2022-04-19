@@ -1,7 +1,7 @@
 # Gura
 RCNS Bot Studio를 관리하는 봇입니다.
 
-[<img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white">](https://discord.gg/ucFXJhEGZm)
+[<img src="https://img.shields.io/badge/python-4374D9?style=for-the-badge&logo=python&logoColor=white">](https://discord.gg/B98msXGRB7)
 
 # Release_note
 
