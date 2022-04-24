@@ -47,13 +47,13 @@ RCNS Bot Studio를 관리하는 봇입니다.
 
 
 ### 티어표
-1. 브론즈 : 1LV ~ 9LV
-2. 실버 : 10LV ~ 19LV
-3. 골드 : 20LV ~ 29LV
-4. 플래티넘 : 30LV ~ 39LV
-5. 다이아몬드 : 40LV ~ 49LV
-6. 마스터 : 50LV
-7. 챌린져 : 50LV + 상위권 10위(개발예정)
+1. Bronze : 1LV ~ 9LV
+2. Silver : 10LV ~ 19LV
+3. Gold : 20LV ~ 29LV
+4. Platinum : 30LV ~ 39LV
+5. Diamond : 40LV ~ 49LV
+6. Master : 50LV
+7. Challenger : 50LV + 상위권 10위(개발예정)
 
 
 
